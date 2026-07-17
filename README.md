@@ -1,0 +1,1 @@
+# 15Dl_Batch_VS_Stochastic_GD
